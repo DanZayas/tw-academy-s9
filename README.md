@@ -48,8 +48,9 @@ Read the README.md file before you proceed.
 
 Never use the following abbreviations in a formal document:
 
-| e.g. | Instead use “for example”.             |
+| Abbreviation | Alternative |
 | --- | --- |
+| e.g. | Instead use “for example”.             |
 | i.e. | Insted use "in other words".           |
 | etc. | Instead give the full list of options. |
 | fig. | Instead spell it out as "figure".      |
@@ -94,6 +95,7 @@ Contractions are considered informal writing. To prevent “stuffiness” use th
 
 Do not use an apostrophe for the plural of acronyms. For example:
 
-| API's | Instead use APIs  |
+| Don't do this   | Do this |
 | ---   | --- |
+| API's | Instead use APIs  |
 | Lan's | Instead use LANs  |
