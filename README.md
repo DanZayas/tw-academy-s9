@@ -95,7 +95,7 @@ Contractions are considered informal writing. To prevent “stuffiness” use th
 
 Do not use an apostrophe for the plural of acronyms. For example:
 
-| Don't do this   | Do this |
+| Apostrophe   | Alternative |
 | ---   | --- |
 | API's | Instead use APIs  |
 | Lan's | Instead use LANs  |
